@@ -22,7 +22,6 @@ h1 {
 h2 {
 	font-size: 24px;
 	margin: 10px;
-	width: 1024px;
 
 }
 
@@ -34,6 +33,8 @@ section {
 
 img {
 	width: 200px;
+	float: left;
+	margin: 10px;
 }
 
 a {
@@ -45,12 +46,11 @@ a {
 }
 
 #mainBio {
-	width: 60%;
+	float: left;
 }
 
 #div1 {
 	width: 70%;
-	float: left;
 }
 
 #contactInfo {
