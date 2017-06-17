@@ -6,7 +6,6 @@ body {
 	padding: 0;
 	line-height: 1.5;
 	width: 1024px;
-	overflow: auto;
 }
 
 header {
@@ -41,10 +40,6 @@ a {
 	color: #d21034;
 }
 
-div {
-s	margin: 0 auto;
-}
-
 #bioPic {
 	margin: 10px;
 }
@@ -55,6 +50,7 @@ s	margin: 0 auto;
 
 #div1 {
 	width: 70%;
+	float: left;
 }
 
 #contactInfo {
